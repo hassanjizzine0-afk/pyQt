@@ -1,6 +1,4 @@
-Here is your text in **Russian GitHub Markdown** – ready to copy/paste directly into your `README.md` file:
 
-```markdown
 # 🔌 Modbus RTU Парсер — GUI приложение на PyQt5
 
 ## 📌 Описание проекта
