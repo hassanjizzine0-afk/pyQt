@@ -237,23 +237,6 @@ python main.py
 
 ---
 
-## 📂 Структура проекта
-
-```
-modbus-rtu-parser-gui/
-│
-├── README.md                 # Описание проекта
-├── requirements.txt          # Зависимости
-├── main.py                   # Точка входа
-├── modbus_parser.py          # Модуль парсинга
-├── gui.py                    # PyQt5 интерфейс
-│
-├── examples/                 # Примеры
-│   └── example_packets.txt
-│
-└── tests/                    # Тесты
-    └── test_parser.py
-```
 
 ---
 
